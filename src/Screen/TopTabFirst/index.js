@@ -12,7 +12,7 @@ export default class TopTapFirst extends React.Component {
   render() {
     return (
       <Container>
-        <Text>TopTabFirst Screen</Text>
+        <Text>Top Tab First Screen</Text>
         <Button title="Show Detail in Tab" onPress={this._showDetail} />
         <Button title="Show Full Size Detail" onPress={this._showFullDetail} />
         <Button
