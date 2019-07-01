@@ -23,19 +23,20 @@ export default class TopTapFirst extends React.Component {
       </Container>
     );
   }
- _showDetail = () => {
+  _showDetail = () => {
+    // 이거는 강제 이동
     this.props.navigation.navigate('Detail');
   };
 
- _showFullDetail = () => {
+  _showFullDetail = () => {
     this.props.navigation.navigate('FullDetail');
   };
 
- _logout = () => {
+  _logout = () => {
     AsyncStorage.removeItem('userToken');
     this.props.navigation.navigate('Auth');
   };
- _navigateSecondBottomTab = () => {
+  _navigateSecondBottomTab = () => {
     this.props.navigation.navigate('SecondTab');
   };
 }

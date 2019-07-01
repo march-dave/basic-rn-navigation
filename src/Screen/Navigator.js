@@ -20,6 +20,7 @@ import {
   
   import Detail from './Detail';
   
+  // 이건 꼭 대기에 있는 Tab
   const TopTab = createMaterialTopTabNavigator({
     TopTabFirst,
     TopTabSecond,
