@@ -3,7 +3,12 @@
 1. yarn add react-navigation react-native-gesture-handler styled-components
 2. react-native link
 
+
+시작:
 ![alt text](https://github.com/march-dave/basic-rn-navigation/blob/master/RN-navigation-Android.png)
+
+Logout: 
+![alt text](https://github.com/march-dave/basic-rn-navigation/blob/master/RN-navigation-LoginScreen.png)
 
 
 # 이런
