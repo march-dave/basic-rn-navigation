@@ -8,7 +8,7 @@
 ![alt text](https://github.com/march-dave/basic-rn-navigation/blob/master/RN-navigation-Android.png)
 
 Logout: 
-![alt text](https://github.com/march-dave/basic-rn-navigation/blob/master/RN-navigation-LoginScreen.png)
+![alt text](https://github.com/march-dave/basic-rn-navigation/blob/master/RN-navagation-LoginScreen.png)
 
 
 # 이런
