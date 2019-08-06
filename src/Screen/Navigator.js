@@ -75,7 +75,7 @@ import {
         MainNavi,
       },
       {
-        initialRouteName: "AuthLoading",
+        initialRouteName: 'AuthLoading',
       }
     )
   );

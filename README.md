@@ -12,7 +12,7 @@ Logout:
 
 
 # 이런
-react-native 0.60.0
+react-native 0.60.0 으로 업그래이드 해야 하는데 0.59.9 에서 설치된 navigation 의 native module 을 제거 하고 다시 설치 해야 한다.
 으로 설치 했다가 react-native-gesture-handler 링크 다 깨져서
 다시 0.59.9 로 내림 -- 이게 언제 해결 될라나.
 
