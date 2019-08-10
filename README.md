@@ -22,7 +22,7 @@ react-native 0.60.0 으로 업그래이드 해야 하는데 0.59.9 에서 설치
 해결 방법: RN 0.59.9 의 auto link를 제거 하고 pod로 실행 하면 된다.
 안드로이는 아직 잘 모르겠네 이건 찾아 봐야 한다.
 
-여기를 찾아 보자...
+여기를 찾아 보자... 
 https://reactnavigation.org/docs/en/getting-started.html
 
 #  Error 내용은 아래와 같은
