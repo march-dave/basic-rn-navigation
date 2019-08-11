@@ -25,6 +25,13 @@ react-native 0.60.0 으로 업그래이드 해야 하는데 0.59.9 에서 설치
 여기를 찾아 보자... 
 https://reactnavigation.org/docs/en/getting-started.html
 
+-- iOS 의 경우
+React Native 0.60 and higher
+On newer versions of React Native, linking is automatic.
+cd ios
+pod install
+cd ..
+
 #  Error 내용은 아래와 같은
 
 error React Native CLI uses autolinking for native dependencies, but the following modules are linked manually: 
