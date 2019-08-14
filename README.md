@@ -32,6 +32,8 @@ cd ios
 pod install
 cd ..
 
+-- android 는 신기 하게 따로 설정 하는것이 없단다....
+
 #  Error 내용은 아래와 같은
 
 error React Native CLI uses autolinking for native dependencies, but the following modules are linked manually: 
